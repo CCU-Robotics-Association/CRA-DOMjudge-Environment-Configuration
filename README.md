@@ -1,0 +1,2 @@
+# DOMjudge-Environment-Configuration
+竞赛平台DOMjudge的本地服务器配置，DOMjudge为ICPC官方竞赛平台，可以应用于校赛、蓝桥杯选拔赛等等
